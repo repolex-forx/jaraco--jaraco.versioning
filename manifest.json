@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "jaraco",
+  "repo": "jaraco.versioning",
+  "versions": [
+    {
+      "commit": "3034138592315a03230b0856e9ff06dd1239883a",
+      "parsed_at": "2026-10-20T11:00:15.988537+00:00",
+      "filetree": "filetree/3034138592315a03230b0856e9ff06dd1239883a.nq.gz",
+      "blobs": [
+        "blob/54cc8303b22089e12053e552d4e6cb852a865b8a.nq.gz",
+        "blob/9a0f3bce1395ae3819030b822e5d9076c85068ea.nq.gz",
+        "blob/724370638fc188317bbc7dc868f1a571995fd796.nq.gz",
+        "blob/577e87a793a20e413f7321f4f17ec1eba2ea1962.nq.gz",
+        "blob/304196f81e11a168c9894f966e4a617ebf4ed53c.nq.gz",
+        "blob/96b256f80039d208330072cb20eb517a04d5ca1b.nq.gz",
+        "blob/5bdc232005af9be104a00437ae9bc64417a4c1cc.nq.gz",
+        "blob/10d412f406891b9683f832fcbc134c9bdf4f916e.nq.gz",
+        "blob/efcb8cbc2043faa7caf4f92fc7488bd6914c934c.nq.gz",
+        "blob/1f2aa7533b0423a8eb943f6f4ec02498e39581a0.nq.gz",
+        "blob/e05a3d4a2ab888e32952006d8cd380864368db5f.nq.gz",
+        "blob/0beede9a222575b1685bfd4b404cc9b0a3123991.nq.gz",
+        "blob/4baa2266d2e7c7ea2078e05e4adcdbb32f354a9c.nq.gz",
+        "blob/54c9000ec94341dd65c2053251b85b124017b9b5.nq.gz",
+        "blob/4652f2802940a06c820866d29e2d602edc44bb6d.nq.gz",
+        "blob/ef1cc733790bca320ccd5a966d858fc046988f27.nq.gz",
+        "blob/3ea312a28a1147756e43af2f180d2387c5585a67.nq.gz",
+        "blob/2e3f4dd791a6372b427d618eb0baa8c4dc58e5f0.nq.gz",
+        "blob/a508b152826bcc1480221d0f4df3d56f10abacc6.nq.gz",
+        "blob/2c9b1a95fb053ccd059085f543b7526e9f5707ba.nq.gz",
+        "blob/700235be57c1b2872455c0be5333f59cf568e252.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
